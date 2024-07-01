@@ -1,0 +1,15 @@
+C:\Users\dhandhan\source\repos\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.AssemblyReference.cache
+C:\Users\dhandhan\source\repos\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.MainForm.resources
+C:\Users\dhandhan\source\repos\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.GenerateResource.cache
+C:\Users\dhandhan\source\repos\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.StockItems.resources
+C:\Users\dhandhan\source\repos\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.CopyComplete
+C:\Users\Ken\Downloads\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.AssemblyReference.cache
+C:\Users\Ken\Downloads\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.MainForm.resources
+C:\Users\Ken\Downloads\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.StockItems.resources
+C:\Users\Ken\Downloads\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.GenerateResource.cache
+C:\Users\Ken\Downloads\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.CopyComplete
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.AssemblyReference.cache
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.MainForm.resources
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.StockItems.resources
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.GenerateResource.cache
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\Debug\StockManagementSystemG2.vcxproj.CopyComplete

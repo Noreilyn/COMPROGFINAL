@@ -1,0 +1,16 @@
+﻿  MainForm.cpp
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(443,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(481,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(508,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(526,19): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\MainForm.h(366,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\MainForm.h(428,21): warning C4101: 'e': unreferenced local variable
+  StockItems.cpp
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(443,21): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(481,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(508,20): warning C4101: 'e': unreferenced local variable
+C:\Users\Ken\Desktop\StockManagementSystemG2\StockManagementSystemG2\StockItems.h(526,19): warning C4101: 'e': unreferenced local variable
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generating Code...
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  StockManagementSystemG2.vcxproj -> C:\Users\Ken\Desktop\StockManagementSystemG2\Debug\StockManagementSystemG2.exe
